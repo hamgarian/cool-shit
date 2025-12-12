@@ -19,6 +19,7 @@ this is a list of applications / services / tools / basically anything that i tr
 - **[Photopea](https://www.photopea.com/)** `S Tier` - photoshop... but faster, ligher, web-based, local, and most importantly... FOR FREE? hell yeah
 - **[Figma](https://www.figma.com/)** `S Tier` - goated for designing anything vector based and easy to automate
 - **After Effects** `A Tier` (pirate it) - nothing comes close to motion graphics, effects, smoothness as good as after effects, only con is that it's one of the most unoptimized software i've ever fucking seen
+- **[Blender](https://www.blender.org/)** `S Tier` - greatest 3d modeling app i've ever seen, tbh not just limited to that, you could draw here, edit videos here, make a full on recreation of arcane, or just make renders, great software
 
 ## Game Dev
 - **[Godot](https://godotengine.org/)** `S Tier` - can do 3d, can do 2d, can be a backend simulation server too (if you didn't know that), open source, great community
