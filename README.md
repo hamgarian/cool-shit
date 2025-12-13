@@ -39,8 +39,8 @@ this is a list of applications / services / tools / basically anything that i tr
 - **[Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/)** `S Tier` - 10 gb file storage, 1 million writes, 10 million reads (all per month), and ZERO BANDWIDTH FEES.. ALL FOR FREE (holy)
 
 ## IDEs
-- **[VS Code](https://code.visualstudio.com/) `S Tier` - goated, huge ecosystem, got extensions for any coding language you need, default IDE for almost everything
-- **[Pycharm Community](https://www.jetbrains.com/pycharm/download/other.html) `S Tier` - support for anything python out of the box, it just works, no need to customize this customize that, new versions are laggy tho
+- **[VS Code](https://code.visualstudio.com/)** `S Tier` - goated, huge ecosystem, got extensions for any coding language you need, default IDE for almost everything
+- **[Pycharm Community](https://www.jetbrains.com/pycharm/download/other.html)** `S Tier` - support for anything python out of the box, it just works, no need to customize this customize that, new versions are laggy tho
 
 ## Domain & DNS
 - **[eu.org](https://nic.eu.org/)** `S Tier` - free domain? forever? without renewals? no fucking way, sign me up, catch is verification takes like 1 week
